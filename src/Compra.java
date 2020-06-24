@@ -1,14 +1,11 @@
+import java.util.List;
 
 public class Compra {
 	private Pago pago;
-	private PagoPayPal pagoPayPal;
 	private List articulos;
 	
+	//DIP
 	public Compra(Pago pago) {
-		//inicializaciones
-	}
-	
-	public Compra(PagoPayPal pagoPayPal) {
 		//inicializaciones
 	}
 	
