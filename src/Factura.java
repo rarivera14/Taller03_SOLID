@@ -1,5 +1,6 @@
 
 public class Factura {
+
 	public static void calcularImpuestosFactura() {
 		//calcula los impuestos asociados a la compra
 	}
